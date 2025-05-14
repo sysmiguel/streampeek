@@ -8,6 +8,9 @@ streampeek is a simple command-line tool that checks if your favorite Twitch str
 - Display what game they're playing
 - Can be integrated with other scripts (like the included demo launcher)
 
+![Preview](./assets/preview.gif)
+
+
 ## Setup
 
 ### Prerequisites
