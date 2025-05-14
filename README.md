@@ -49,6 +49,8 @@ streampeek is a simple command-line tool that checks if your favorite Twitch str
 
 ## Integration Example
 
+![Demo](./assets/output.gif)
+
 For an example on how I would use this script I included a dirty little demo launcher. It shows the currently online streamers in wofi (should also work with dmenu, rofi, etc) and opens the URL in firefox via cli. I haven't tested this for any other browsers but shouldn't be hard to figure out.
 
 To use it you have to make `launcher.sh` executable and pipe the output of streampeek into the launcher.
